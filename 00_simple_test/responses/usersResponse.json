@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John",
+        "surname": "Doe",
+        "gender": "male",
+        "region": "United States"
+    },
+    {
+        "name": "Phillip",
+        "surname": "Ortega",
+        "gender": "male",
+        "region": "United States"
+    },
+    {
+        "name": "Phillip",
+        "surname": "Campbell",
+        "gender": "male",
+        "region": "United States"
+    },
+    {
+        "name": "Jennifer",
+        "surname": "Gutierrez",
+        "gender": "female",
+        "region": "United States"
+    },
+    {
+        "name": "Daniel",
+        "surname": "Pierce",
+        "gender": "male",
+        "region": "United States"
+    },
+    {
+        "name": "Julie",
+        "surname": "Willis",
+        "gender": "female",
+        "region": "United States"
+    }
+]
