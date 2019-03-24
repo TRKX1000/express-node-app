@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "21767ef8-5d2b-48a6-bf1f-0ba2f2a07c24",
+		"name": "00_simple_test_collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://127.0.0.1:9999/fetchUsers",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "9999",
+					"path": [
+						"fetchUsers"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
